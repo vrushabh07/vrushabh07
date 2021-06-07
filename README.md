@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vrushabh07
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently pursuing my B.tech.
+- 🌱 I’m currently pursuing my B.tech in IT.
 - 💞️ I’m looking to collaborate on any machine learning projects.
 - 📫 You can reach to me on linkidin: https://www.linkedin.com/in/vrushabh-shrimali-20313a171/
 
