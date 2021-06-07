@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently pursuing my B.tech.
 - 💞️ I’m looking to collaborate on any machine learning projects.
-- 📫 You can reach me on linkidin: https://www.linkedin.com/in/vrushabh-shrimali-20313a171/
+- 📫 You can reach to me on linkidin: https://www.linkedin.com/in/vrushabh-shrimali-20313a171/
 
 <!---
 vrushabh07/vrushabh07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
